@@ -32,3 +32,6 @@ clear communication, and thoughtful trade-offs.
 This article helped me better understand why software engineering is as much
 about people and problem understanding as it is about writing code, which is a
 perspective I find both humbling and valuable.
+
+## Kairis Reflection
+It made me realize that there’s no magic solution to making software development easy or super fast. I see now that a lot of the difficulties come from the inherent complexity of the problems themselves, not just from bad tools or messy code. Even if we improve tools or processes, software will still be hard because of its essential nature. For me, this highlights that the best way to get better at programming isn’t chasing shortcuts—it’s practicing, learning from experience, and thinking carefully about design. It’s a bit humbling but also motivating, because it shows that real progress comes from steady effort, not expecting miracles.

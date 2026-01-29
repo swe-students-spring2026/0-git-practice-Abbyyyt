@@ -1,2 +1,8 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+Article: https://worrydream.com/refs/Brooks_1986_-_No_Silver_Bullet.pdf
+
+I find this article particularly interesting because, despite being written nearly four decades ago, its core argument remains highly relevant in today’s software engineering landscape. Brooks argues that there is no single technology or methodology that can dramatically improve software productivity by an order of magnitude, because many of the hardest problems in software development stem from **essential complexity**—the inherent difficulty of the problem being solved—rather than **accidental complexity**, which arises from tools, languages, or implementation details.
+
+What makes this argument compelling in a modern context is how well it applies to current “silver bullet candidates” such as AI-assisted programming tools and large language models. While tools like GitHub Copilot or ChatGPT can significantly reduce boilerplate code and speed up certain development tasks, they do not eliminate the fundamental challenges of understanding ambiguous requirements, managing system-wide complexity, or adapting to constantly changing user needs. These challenges align closely with Brooks’ notion of essential complexity.
+
+From a contemporary perspective, I see *No Silver Bullet* not as a pessimistic claim, but as a reminder to be realistic about what technology can and cannot solve. Modern tools are extremely powerful at reducing accidental complexity, but successful software engineering still depends heavily on good system design, clear communication, and thoughtful trade-offs. This article helped me better understand why software engineering is as much about people and problem understanding as it is about writing code, which is a perspective I find both humbling and valuable.
